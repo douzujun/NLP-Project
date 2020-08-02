@@ -1,2 +1,3 @@
 # NLP-Project
-NLP Project + pytorch
+
+- lstm 情感分析
